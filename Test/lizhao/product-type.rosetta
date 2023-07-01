@@ -1,0 +1,9 @@
+namespace net.lizhao.cdm
+version "${project.version}"
+
+synonym source FpML5
+
+type Product: <"Financial Derivative Product">
+  name string (1..1)
+   [synonym FpML5 value "productType" path "trade->equityOption"]
+  prodType ProductTypeEnum (1..1)

@@ -1,0 +1,65 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=09598975_002D1f7c_002D4e0a_002Da8ba_002Dbc427f60465c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestValidate #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6AB62609-3647-4E81-B9C5-402ACF4FE4C4::net5.0::Cdm.Test.TestValidate&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0a54a671_002Dfc80_002D4c9a_002D8482_002D45d04110a924/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestValidate #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6AB62609-3647-4E81-B9C5-402ACF4FE4C4::net5.0::Cdm.Test.TestValidate&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17eb4ba7_002Dcc9d_002D4f72_002D8884_002D628add635558/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestValidation #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6AB62609-3647-4E81-B9C5-402ACF4FE4C4::net5.0::Cdm.Test.TestValidate.TestValidation&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=47a74c0a_002Df1fb_002D4614_002Daaf9_002D3521e22ee532/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from TestValidate.cs #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;6AB62609-3647-4E81-B9C5-402ACF4FE4C4/f:TestValidate.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4cb59b0a_002Dcf95_002D429c_002Da73d_002D9602f3e16c4c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestValidation #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6AB62609-3647-4E81-B9C5-402ACF4FE4C4::net5.0::Cdm.Test.TestValidate.TestValidation&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5f6fbd8f_002D14c7_002D4a87_002D8d43_002D4ba6ab466bc8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from TestValidate.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;6AB62609-3647-4E81-B9C5-402ACF4FE4C4/f:TestValidate.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=660b5eef_002D23a0_002D4247_002D9f51_002Df3fddd8d4ac3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestValidation #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6AB62609-3647-4E81-B9C5-402ACF4FE4C4::net5.0::Cdm.Test.TestValidate.TestValidation&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7eaa2cbd_002Dc494_002D41f1_002D804f_002D3ba33051a925/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestValidate" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6AB62609-3647-4E81-B9C5-402ACF4FE4C4::net5.0::Cdm.Test.TestValidate&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=898f9d11_002Dfa76_002D4fbf_002D82b7_002D570346696c31/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestValidation" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6AB62609-3647-4E81-B9C5-402ACF4FE4C4::net5.0::Cdm.Test.TestValidate.TestValidation&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8ab84e53_002D529f_002D4901_002D85ff_002Dbe1aa7a413dd/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="True" ContinuousTestingMode="1" Name="TestValidation #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6AB62609-3647-4E81-B9C5-402ACF4FE4C4::net5.0::Cdm.Test.TestValidate.TestValidation&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9126fabe_002D7d8f_002D4681_002D9147_002D2cf281b380f3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from TestValidate.cs #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;6AB62609-3647-4E81-B9C5-402ACF4FE4C4/f:TestValidate.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=adbf9805_002D1cca_002D4a16_002D9b07_002D62fe64ba8ef6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from TestValidate.cs #8" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;6AB62609-3647-4E81-B9C5-402ACF4FE4C4/f:TestValidate.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=af4e4794_002Dbdb7_002D4c91_002D8a93_002D5d7b2be23433/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from TestValidate.cs #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;6AB62609-3647-4E81-B9C5-402ACF4FE4C4/f:TestValidate.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ca3523e0_002Df466_002D4dc2_002D80a1_002Dddfaa85de755/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from TestValidate.cs #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;6AB62609-3647-4E81-B9C5-402ACF4FE4C4/f:TestValidate.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f9aba69e_002D90ec_002D4b12_002Dbc4d_002D87e3bceab6da/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from TestValidate.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;6AB62609-3647-4E81-B9C5-402ACF4FE4C4/f:TestValidate.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fd880fc6_002D5c28_002D48cb_002D880f_002D8d4a847e013e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from TestValidate.cs #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;6AB62609-3647-4E81-B9C5-402ACF4FE4C4/f:TestValidate.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
