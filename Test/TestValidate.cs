@@ -2,6 +2,7 @@
 
 
 using Org.Isda.Cdm;
+using Org.Isda.Cdm.Enums;
 
 namespace Cdm.Test
 {
@@ -27,7 +28,8 @@ namespace Cdm.Test
 #pragma warning disable CS8602 // Dereference of a possibly null reference.
             var type = product.ProdType;
 #pragma warning restore CS8602 // Dereference of a possibly null reference.
-            Assert.True(type != null);
+            Assert.True(type == ProductType.FCN);
+            Assert.True(product.Name == "lizhao");
 
 #pragma warning disable CS8602 // Dereference of a possibly null reference.
             Assert.True(product.Validate().IsSuccess);
